@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian Vault</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 23 Dec 2024 17:16:57 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 23 Dec 2024 17:16:54 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[【課程】電子商務互動行銷]]></title><description><![CDATA[<a class="tag" href="?query=tag:大學" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#大學</a> 
+ <br><a href=".?query=tag:大學" class="tag" target="_blank" rel="noopener nofollow">#大學</a> <br>ADT110128 黃彩柔 　<br><br><br><br>
+<br><a data-tooltip-position="top" aria-label="目錄" data-href="#目錄" href="about:blank#目錄" class="internal-link" target="_self" rel="noopener nofollow">目錄</a>
+<br><a data-tooltip-position="top" aria-label="教學進度" data-href="#教學進度" href="about:blank#教學進度" class="internal-link" target="_self" rel="noopener nofollow">教學進度</a>
+<br><a data-tooltip-position="top" aria-label="Week01" data-href="#Week01" href="about:blank#Week01" class="internal-link" target="_self" rel="noopener nofollow">Week01</a><br>
+- <a data-tooltip-position="top" aria-label="Homework" data-href="#Homework" href="about:blank#Homework" class="internal-link" target="_self" rel="noopener nofollow">Homework</a>
+<br><a data-tooltip-position="top" aria-label="Week02" data-href="#Week02" href="about:blank#Week02" class="internal-link" target="_self" rel="noopener nofollow">Week02</a>
+<br><a data-tooltip-position="top" aria-label="Week03" data-href="#Week03" href="about:blank#Week03" class="internal-link" target="_self" rel="noopener nofollow">Week03</a><br>
+- <a data-tooltip-position="top" aria-label="學習單" data-href="#學習單" href="about:blank#學習單" class="internal-link" target="_self" rel="noopener nofollow">學習單</a><br>
+- <a data-tooltip-position="top" aria-label="小組討論：4S理論" data-href="#小組討論：4S理論" href="about:blank#小組討論：4S理論" class="internal-link" target="_self" rel="noopener nofollow">小組討論：4S理論</a>
+<br><a data-tooltip-position="top" aria-label="Week04" data-href="#Week04" href="about:blank#Week04" class="internal-link" target="_self" rel="noopener nofollow">Week04</a><br>
+- <a data-tooltip-position="top" aria-label="課堂實作 ：Landing page" data-href="#課堂實作 ：Landing page" href="about:blank#課堂實作_：Landing_page" class="internal-link" target="_self" rel="noopener nofollow">課堂實作 ：Landing page</a>
+<br><a data-tooltip-position="top" aria-label="Week05" data-href="#Week05" href="about:blank#Week05" class="internal-link" target="_self" rel="noopener nofollow">Week05</a><br>
+- <a data-tooltip-position="top" aria-label="學習單" data-href="#學習單" href="about:blank#學習單" class="internal-link" target="_self" rel="noopener nofollow">學習單</a><br>
+- <a data-tooltip-position="top" aria-label="課堂實作：LINE 機器人" data-href="#課堂實作：LINE 機器人" href="about:blank#課堂實作：LINE_機器人" class="internal-link" target="_self" rel="noopener nofollow">課堂實作：LINE 機器人</a>
+<br><a data-tooltip-position="top" aria-label="Week06" data-href="#Week06" href="about:blank#Week06" class="internal-link" target="_self" rel="noopener nofollow">Week06</a><br>
+- <a data-tooltip-position="top" aria-label="學習單" data-href="#學習單" href="about:blank#學習單" class="internal-link" target="_self" rel="noopener nofollow">學習單</a><br>
+- <a data-tooltip-position="top" aria-label="課堂實作：Chatbase智能客服" data-href="#課堂實作：Chatbase智能客服" href="about:blank#課堂實作：Chatbase智能客服" class="internal-link" target="_self" rel="noopener nofollow">課堂實作：Chatbase智能客服</a>
+<br><a data-tooltip-position="top" aria-label="Week07" data-href="#Week07" href="about:blank#Week07" class="internal-link" target="_self" rel="noopener nofollow">Week07</a><br>
+- <a data-tooltip-position="top" aria-label="課堂實作" data-href="#課堂實作" href="about:blank#課堂實作" class="internal-link" target="_self" rel="noopener nofollow">課堂實作</a><br>
+- <a data-tooltip-position="top" aria-label="期中企劃書" data-href="#期中企劃書" href="about:blank#期中企劃書" class="internal-link" target="_self" rel="noopener nofollow">期中企劃書</a>
+<br><a data-tooltip-position="top" aria-label="Week08" data-href="#Week08" href="about:blank#Week08" class="internal-link" target="_self" rel="noopener nofollow">Week08</a>
+<br><a data-tooltip-position="top" aria-label="Week09" data-href="#Week09" href="about:blank#Week09" class="internal-link" target="_self" rel="noopener nofollow">Week09</a><br>
+- <a data-tooltip-position="top" aria-label="學習單" data-href="#學習單" href="about:blank#學習單" class="internal-link" target="_self" rel="noopener nofollow">學習單</a><br>
+- <a data-tooltip-position="top" aria-label="課堂實作：AR" data-href="#課堂實作：AR" href="about:blank#課堂實作：AR" class="internal-link" target="_self" rel="noopener nofollow">課堂實作：AR</a>
+<br><a data-tooltip-position="top" aria-label="Week10" data-href="#Week10" href="about:blank#Week10" class="internal-link" target="_self" rel="noopener nofollow">Week10</a><br>
+- <a data-tooltip-position="top" aria-label="課堂實作：AI &amp; Brand Design" data-href="#課堂實作：AI &amp; Brand Design" href="about:blank#課堂實作：AI_&amp;_Brand_Design" class="internal-link" target="_self" rel="noopener nofollow">課堂實作：AI &amp; Brand Design</a>
+<br><a data-tooltip-position="top" aria-label="Week11" data-href="#Week11" href="about:blank#Week11" class="internal-link" target="_self" rel="noopener nofollow">Week11</a>
+<br><a data-tooltip-position="top" aria-label="Week12" data-href="#Week12" href="about:blank#Week12" class="internal-link" target="_self" rel="noopener nofollow">Week12</a>
+<br><a data-tooltip-position="top" aria-label="Week13" data-href="#Week13" href="about:blank#Week13" class="internal-link" target="_self" rel="noopener nofollow">Week13</a><br>
+- <a data-tooltip-position="top" aria-label="學習單" data-href="#學習單" href="about:blank#學習單" class="internal-link" target="_self" rel="noopener nofollow">學習單</a><br>
+- <a data-tooltip-position="top" aria-label="期末企劃：VR 行銷企劃 (分組討論與報告)" data-href="#期末企劃：VR 行銷企劃 (分組討論與報告)" href="about:blank#期末企劃：VR_行銷企劃_(分組討論與報告)" class="internal-link" target="_self" rel="noopener nofollow">期末企劃：VR 行銷企劃 (分組討論與報告)</a>
+<br><a data-tooltip-position="top" aria-label="Week14" data-href="#Week14" href="about:blank#Week14" class="internal-link" target="_self" rel="noopener nofollow">Week14</a>
+<br><a data-tooltip-position="top" aria-label="Week15" data-href="#Week15" href="about:blank#Week15" class="internal-link" target="_self" rel="noopener nofollow">Week15</a>
+
+<br><a data-tooltip-position="top" aria-label="期末報告：VR虛擬導覽+AIGC" data-href="#期末報告：VR虛擬導覽+AIGC" href="about:blank#期末報告：VR虛擬導覽+AIGC" class="internal-link" target="_self" rel="noopener nofollow">期末報告：VR虛擬導覽+AIGC</a>
+
+
+<br><a data-tooltip-position="top" aria-label="學習心得" data-href="#學習心得" href="about:blank#學習心得" class="internal-link" target="_self" rel="noopener nofollow">學習心得</a>
+<br><br><br><br><br><br><a data-tooltip-position="top" aria-label="https://docs.google.com/forms/d/e/1FAIpQLSdf0HTqASfm8Q3rBmTBMuZK_uwEpUVaDayaR260q2Kj7phw7w/viewform" rel="noopener nofollow" class="external-link" href="https://docs.google.com/forms/d/e/1FAIpQLSdf0HTqASfm8Q3rBmTBMuZK_uwEpUVaDayaR260q2Kj7phw7w/viewform" target="_blank">期初問卷調查</a><br>分組名單：<br>
+第四組<br>
+<br>組長 陶佑齊ASC110114
+<br>組員 黃彩柔ADT110128
+<br>組員 黃惠卿ADT110701
+<br>組員 蕭燕婷ADT110131
+<br><br>
+<br><a data-tooltip-position="top" aria-label="https://www.facebook.com/share/p/A2QiedD7QHDL3W5T/" rel="noopener nofollow" class="external-link" href="https://www.facebook.com/share/p/A2QiedD7QHDL3W5T/" target="_blank">中秋節烤肉行銷</a> 
+
+<br>推薦哪一間燒肉？
+<br>建議的行銷方式？
+
+
+<br>色鼎燒肉<br>
+價位：$626+10%元/人<br>
+行銷方式：名字有「月」的人可以打折<br><br><br>中秋節放假<br><br><br><br><img alt="學習單01.jpg" src="20-project\22【課程】電子商務互動行銷\學習單01.jpg"><br><br>
+<br>完成4S理論表格之代表性廠商或產品。<br>
+構想以4S理論，發想一個行銷策略，以行銷本組選定之產品。<br>
+第三節每組進行討論。<br>
+簡報上傳FB &amp; <a data-tooltip-position="top" aria-label="https://drive.google.com/drive/folders/1LiyiE1Vw6QHzOcBgiLhZ20n8gGvnWZUt?fbclid=IwY2xjawHWOEtleHRuA2FlbQIxMAABHdx_VLR7xIx8rPGJLBBF3kfkYgVmliyCY-Csjl5czi1eG34lktqmNbfyBA_aem_wUKdzlNJZK41aslWFFJ_3g" rel="noopener nofollow" class="external-link" href="https://drive.google.com/drive/folders/1LiyiE1Vw6QHzOcBgiLhZ20n8gGvnWZUt?fbclid=IwY2xjawHWOEtleHRuA2FlbQIxMAABHdx_VLR7xIx8rPGJLBBF3kfkYgVmliyCY-Csjl5czi1eG34lktqmNbfyBA_aem_wUKdzlNJZK41aslWFFJ_3g" target="_blank">雲端空間</a>。
+<br><br><br><br>小組報告：行銷4S<br><br>
+<br>搜尋一個免費製作網頁工具(ex. Holkee/Stringly/…)，以畢業專題為主題，製 作一頁式廣告行銷網站。 並將製作好的網站網址上傳至 FB 社團。 嘗試著加入以下功能  
+
+<br>規格：
+
+<br>首頁 (專題名稱)、組別資訊、展覽資訊
+<br>專題海報、組別資訊
+<br>影片
+<br>地圖
+<br>聯繫資訊
+<br>搜尋一個 AI 網頁製作工具(ex. Pagen)。並製作一份內容同上。並製作一個優 劣比較表。 <a data-tooltip-position="top" aria-label="https://aipure.ai/tw/category" rel="noopener nofollow" class="external-link" href="https://aipure.ai/tw/category" target="_blank">AI 工具分類檢索網站</a>
+
+
+
+
+<br>成果張貼在 FB 社團  
+<br>第四組<br>
+陶佑齊ASC110114<br>
+黃彩柔ADT110128<br>
+黃惠卿ADT110701<br>
+蕭燕婷ADT110131<br>
+網頁製作工具#1　WIX<br>
+網址：<a rel="noopener nofollow" class="external-link" href="https://adt110701.wixsite.com/shiguang2dgame" target="_blank">https://adt110701.wixsite.com/shiguang2dgame</a><br>
+網頁製作工具#2　Strikingly<br>
+網址：<a rel="noopener nofollow" class="external-link" href="https://shiguang.mystrikingly.com" target="_blank">https://shiguang.mystrikingly.com</a><br>Q1. 優劣比較<br>
+WIX網頁美感更高，本身有內建的動態網頁，視覺上閱讀更方便也更舒適，反之Ｓtrikingly編輯界面很不直觀。<br>
+但strikingly可以在短時間之內，把文字內容快速轉化為有視覺的網頁，讓所有人方便閱覽的內容，製作快速是他的優點。<br>Q2. 店商網頁製作工具的選擇及理由？<br>
+我會選擇Strikingly這款AI生成網頁工具，因為製作快速且方便，Strikingly能夠讓商品以最直觀的方式呈現在客戶面前，同時搭配上自動的圖片生成，在發布前我只需要再次檢查內容並修改圖片即可上架。<br><br><br><br><img alt="學習單02.jpg" src="20-project\22【課程】電子商務互動行銷\學習單02.jpg"><br><br>
+<br>建立一個 LINE 機器人，並建立他的聊天機器人。然後發佈在 FB 社團上。 以每組之主題，建立 line 機器人互動行銷。 
+<br>
+<br>設立 ICON
+<br>修改歡迎訊息、預設訊息。
+<br>建立一個優惠券活動。設定「關鍵字」發送優惠券。
+<br>建立一個集點卡活動，以及建立兌換券。
+<br>上網搜尋一個 faq 範例，建立十條 faq，作為 ai 自動回覆的資料。
+<br>將上述內容，實際展示過程，錄製成手機影片。
+<br>共編連結：<a rel="noopener nofollow" class="external-link" href="https://docs.google.com/spreadsheets/d/1TQST-aoVC-my32pIo2cidfRUgqk8-9Oup2Ml8TSbjb0/edit?usp=sharing" target="_blank">https://docs.google.com/spreadsheets/d/1TQST-aoVC-my32pIo2cidfRUgqk8-9Oup2Ml8TSbjb0/edit?usp=sharing</a><br>QRcode<br>
+<img title="linebot" alt="image alt" src="https://scontent.frmq2-1.fna.fbcdn.net/v/t39.30808-6/462390862_3548795385411812_4528956177992668063_n.jpg?stp=dst-jpg_p75x225_tt6&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=bd9a62&amp;_nc_ohc=ynfrHu-tGYYQ7kNvgGdCefs&amp;_nc_zt=23&amp;_nc_ht=scontent.frmq2-1.fna&amp;_nc_gid=A78tPHQuAfgsEwsW_jp8iLA&amp;oh=00_AYB5Db9qQa1Li1XKfsWx9_3xVEEy90QZbQ8ip__cvFeSeQ&amp;oe=676F554F" referrerpolicy="no-referrer"><br>成果影片<br><br><br><br><br><img alt="學習單03.jpg" src="20-project\22【課程】電子商務互動行銷\學習單03.jpg"><br><br>
+<br>建立一個 Chatbot 機器人,並建立他的聊天機器人。然後發佈在FB社團上。以每組之主題,建立line機器人互動行銷。 
+<br>
+<br>建立一個chatbot
+<br>用系上網頁建立訓練 chatbot
+<br>用自己的訓練資料訓練 chatbot (QA)
+<br>建立一個 weebly 網站
+<br>把 chatbot 結合在該網站上
+<br>組別：第四組<br>
+主題：拾光專題網頁<br>
+網址：<a data-tooltip-position="top" aria-label="https://l.facebook.com/l.php?u=https%3A%2F%2Fadt110701.wixsite.com%2Fshiguang2dgame%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR3D2C2y3OUm7FxmL--Hh6aCvfNMomRLU8DrTXfsnWkVQVRBXh03Msh7PiY_aem_RWWBfGwvSbXYd9c0xmQFpA&amp;h=AT0uzi0kGKvCd5YAOe5lM8q2OJxdmEwfR6cRlJ_04_jq0aNqZSxQ1ZQB4LmsOIDffWl4xwn3GaAe1wLaX4tFIB9JGk_fF9gfQOLeUOSakU1Um9cXWOxty-i-hfwRnWma-1Jj&amp;__tn__=R%5D-R&amp;c%5B0%5D=AT1pkshwsZUxE3kO-Mis8xWoT-KVPIEfW67Y1GqW0XrdEJfHcGz6gQDHaDRGqvuyiI_HrgA4gkrsehQVp2UpjmJn397flnjRNC-lXXq97H2gmufl0js3G9pqOa6g6EYrXee5_ndEof56SpJaa-I0ptWE8VG6Hlsfq2CfjPkW0nW6IWHlx3W3bD36e_EVYNykgFnUFPdqKO5vuE6hDl-2fhvmYMeUjuEL" rel="noopener nofollow" class="external-link" href="https://l.facebook.com/l.php?u=https%3A%2F%2Fadt110701.wixsite.com%2Fshiguang2dgame%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR3D2C2y3OUm7FxmL--Hh6aCvfNMomRLU8DrTXfsnWkVQVRBXh03Msh7PiY_aem_RWWBfGwvSbXYd9c0xmQFpA&amp;h=AT0uzi0kGKvCd5YAOe5lM8q2OJxdmEwfR6cRlJ_04_jq0aNqZSxQ1ZQB4LmsOIDffWl4xwn3GaAe1wLaX4tFIB9JGk_fF9gfQOLeUOSakU1Um9cXWOxty-i-hfwRnWma-1Jj&amp;__tn__=R%5D-R&amp;c%5B0%5D=AT1pkshwsZUxE3kO-Mis8xWoT-KVPIEfW67Y1GqW0XrdEJfHcGz6gQDHaDRGqvuyiI_HrgA4gkrsehQVp2UpjmJn397flnjRNC-lXXq97H2gmufl0js3G9pqOa6g6EYrXee5_ndEof56SpJaa-I0ptWE8VG6Hlsfq2CfjPkW0nW6IWHlx3W3bD36e_EVYNykgFnUFPdqKO5vuE6hDl-2fhvmYMeUjuEL" target="_blank">https://adt110701.wixsite.com/shiguang2dgame</a><br>
+Chatbot 名稱：拾光小助理<br>
+AI 聊天機器人網址：<a data-tooltip-position="top" aria-label="https://l.facebook.com/l.php?u=https%3A%2F%2Fadt110701.wixsite.com%2Fshiguang2dgame%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR3D2C2y3OUm7FxmL--Hh6aCvfNMomRLU8DrTXfsnWkVQVRBXh03Msh7PiY_aem_RWWBfGwvSbXYd9c0xmQFpA&amp;h=AT0uzi0kGKvCd5YAOe5lM8q2OJxdmEwfR6cRlJ_04_jq0aNqZSxQ1ZQB4LmsOIDffWl4xwn3GaAe1wLaX4tFIB9JGk_fF9gfQOLeUOSakU1Um9cXWOxty-i-hfwRnWma-1Jj&amp;__tn__=R%5D-R&amp;c%5B0%5D=AT1pkshwsZUxE3kO-Mis8xWoT-KVPIEfW67Y1GqW0XrdEJfHcGz6gQDHaDRGqvuyiI_HrgA4gkrsehQVp2UpjmJn397flnjRNC-lXXq97H2gmufl0js3G9pqOa6g6EYrXee5_ndEof56SpJaa-I0ptWE8VG6Hlsfq2CfjPkW0nW6IWHlx3W3bD36e_EVYNykgFnUFPdqKO5vuE6hDl-2fhvmYMeUjuEL" rel="noopener nofollow" class="external-link" href="https://l.facebook.com/l.php?u=https%3A%2F%2Fadt110701.wixsite.com%2Fshiguang2dgame%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR3D2C2y3OUm7FxmL--Hh6aCvfNMomRLU8DrTXfsnWkVQVRBXh03Msh7PiY_aem_RWWBfGwvSbXYd9c0xmQFpA&amp;h=AT0uzi0kGKvCd5YAOe5lM8q2OJxdmEwfR6cRlJ_04_jq0aNqZSxQ1ZQB4LmsOIDffWl4xwn3GaAe1wLaX4tFIB9JGk_fF9gfQOLeUOSakU1Um9cXWOxty-i-hfwRnWma-1Jj&amp;__tn__=R%5D-R&amp;c%5B0%5D=AT1pkshwsZUxE3kO-Mis8xWoT-KVPIEfW67Y1GqW0XrdEJfHcGz6gQDHaDRGqvuyiI_HrgA4gkrsehQVp2UpjmJn397flnjRNC-lXXq97H2gmufl0js3G9pqOa6g6EYrXee5_ndEof56SpJaa-I0ptWE8VG6Hlsfq2CfjPkW0nW6IWHlx3W3bD36e_EVYNykgFnUFPdqKO5vuE6hDl-2fhvmYMeUjuEL" target="_blank">https://adt110701.wixsite.com/shiguang2dgame</a><br>
+我們認為這個技術可以應用於「臺灣銀行AI智能客服」<br>
+<img alt="image alt" src="https://scontent.frmq2-2.fna.fbcdn.net/v/t39.30808-6/463369045_3558071601150857_1135244997878293717_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=bd9a62&amp;_nc_ohc=3llFaU_BgCYQ7kNvgH24_Ke&amp;_nc_zt=23&amp;_nc_ht=scontent.frmq2-2.fna&amp;_nc_gid=A3ahG1GqUgbdd_m_PKAXEMQ&amp;oh=00_AYC9W0jj8A9n7vLqLG9HTXqQGBi7KdAezLrHJWCOKwTfUg&amp;oe=676F6285" referrerpolicy="no-referrer"><br><br><br>GPT AI Assistant專案：<a rel="noopener nofollow" class="external-link" href="https://github.com/memochou1993/gpt-ai-assistant" target="_blank">https://github.com/memochou1993/gpt-ai-assistant</a><br>教學影片：<br><br><br>
+<br>製作AI的聊天機器人。 <img class="emoji" draggable="false" alt="✅" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/2705.svg" height="16px" style="max-width: 100%;"> 2024-12-24<br>
+串接ChatGPT4 + Github + OpenAI + Vercel，建立完成一個內建ChatGPT4 大腦的Line聊天機器人。<br>
+成果：<br>
+<img alt="image alt" src="https://scontent.frmq2-1.fna.fbcdn.net/v/t39.30808-6/464223120_3487169088255548_2002622915530132399_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=bd9a62&amp;_nc_ohc=K5_iihLqtmMQ7kNvgF-g_nb&amp;_nc_zt=23&amp;_nc_ht=scontent.frmq2-1.fna&amp;_nc_gid=AptKIU97exFMO8jP328Hi8q&amp;oh=00_AYCzUTv5DfNEgqUct0uxTBiX_KXI0d__7Pz_1cWpsqQ_wA&amp;oe=676F3926" referrerpolicy="no-referrer"><br>
+<img alt="image alt" src="https://scontent.frmq2-1.fna.fbcdn.net/v/t39.30808-6/464353935_3487169238255533_3804425994765737506_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=bd9a62&amp;_nc_ohc=q7Ji02Fh3N0Q7kNvgE9P9Ex&amp;_nc_zt=23&amp;_nc_ht=scontent.frmq2-1.fna&amp;_nc_gid=A7Q1C1i_7A8m3LZawEuwuTc&amp;oh=00_AYDE0ki_jLfhk97l4KupjuFD-Uuw-LUPqu2hFpQnesyWNw&amp;oe=676F3F75" referrerpolicy="no-referrer">
+<br><br>11301 電子商務與網路互動行銷<br>
+期中企劃書報告-AI行銷科技<br>
+日期：10/29 （二） 9:30 - 12:00<br>每組從以下中任選一個主題，不與其他組重複。先張貼工具主題於FB社團。<br>
+<br>網路行銷AI工具
+<br>網路虛擬展間平台 in Marketing (Free) Istaging, Spatial, ARTOGO, 3DVista, UC-win, iWare
+<br>運用該工具於網路行銷，行銷活動搭配郵局比賽者加分。<a rel="noopener nofollow" class="external-link" href="https://pc.wp.shu.edu.tw/?p=131293" target="_blank">https://pc.wp.shu.edu.tw/?p=131293</a><br>
+<br>每組針對產品進行互動行銷實做與企劃簡報 (每組10分)。
+<br>每位同學均需上台報告負責部分。
+<br>PPT
+<br>目錄規劃<br>
+<br>首頁
+<br>新科技介紹
+<br>AI/VR網路虛擬展間軟體介紹(功能、可解決甚麼問題）
+<br>軟體操作簡易教學 (錄成Youtube)
+<br>運用該軟體於網路行銷的應用  
+<br>展示你們實作的小作品DEMO（實際作一個簡單小作品），
+<br>Chatbot於網路行銷的展示應用
+<br>Linebot or Chatbase (兩者都做的加分)
+<br>組員分工
+<br>繳交內容：<br>
+雲端空間、Notion<br>
+PPT、Youtube影片、成果彙編Notion<br>繳交地方：<br>
+<br>相關內容（PPT）與製作完成素材上傳雲端空間連結。每組建立一個目錄。<a data-tooltip-position="top" aria-label="https://drive.google.com/drive/folders/1fEqiR-ccYPSHaqGVFIYQII-PYIuVofzf?usp=sharing&amp;fbclid=IwZXh0bgNhZW0CMTAAAR2uIGBWLGXDLZ-JD-AdeiH-tlHyixK2po8GXaB5FIzFk5OW02xANkRfCjU_aem_YNniy_4KI3aTIWlj6YsJkw" rel="noopener nofollow" class="external-link" href="https://drive.google.com/drive/folders/1fEqiR-ccYPSHaqGVFIYQII-PYIuVofzf?usp=sharing&amp;fbclid=IwZXh0bgNhZW0CMTAAAR2uIGBWLGXDLZ-JD-AdeiH-tlHyixK2po8GXaB5FIzFk5OW02xANkRfCjU_aem_YNniy_4KI3aTIWlj6YsJkw" target="_blank">https://drive.google.com/....../1fEqiR......</a>
+<br>PPT需上傳雲端空間(含相關素材)。
+<br>Notion彙編期中成果<br>
+<a rel="noopener nofollow" class="external-link" href="https://www.notion.so/11301-AI-VR-AI-Chatbot-11fecfb5e8d680d1acfeea45cc244d1e?pvs=4" target="_blank">https://www.notion.so/11301-AI-VR-AI-Chatbot-11fecfb5e8d680d1acfeea45cc244d1e?pvs=4</a>
+<br>有任何問題請與老師聯繫 Email: <a data-tooltip-position="top" aria-label="mailto:chwu@mail.ntcu.edu.tw" rel="noopener nofollow" class="external-link" href="mailto:chwu@mail.ntcu.edu.tw" target="_blank">chwu@mail.ntcu.edu.tw</a><br><br><br><br><br><br><br><img alt="學習單04.jpg" src="20-project\22【課程】電子商務互動行銷\學習單04.jpg"><br><br>主題：AR各類媒體類型與邏輯功能測試<br>
+專案名稱：ADT110128_AR<br>
+<img alt="image alt" src="https://scontent.frmq2-1.fna.fbcdn.net/v/t39.30808-6/465620747_3497403080565482_1105549125965679967_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=bd9a62&amp;_nc_ohc=yUDp8Zl9FCYQ7kNvgGUnDiP&amp;_nc_zt=23&amp;_nc_ht=scontent.frmq2-1.fna&amp;_nc_gid=A8sHVHzDg0VDsGMRxDciuJF&amp;oh=00_AYDPvgbyMF5OE10iLSC0d__NNHBPmHg7QbEvfWr_tH3MkA&amp;oe=676F5FD7" referrerpolicy="no-referrer"><br><br><br><br>每組生成一個產品圖上傳至社團。<br>
+<br>每組根據自己的畢業專題設計一款LOGO，可用常用軟體使用Illustrator或CANVA製作，或是上Bing用AI設計一個LOGO也可以唷!<br>
+<a data-tooltip-position="top" aria-label="https://www.bing.com/images/create?FORM=GENEXP&amp;PC=SANSAAND&amp;ssp=1&amp;safesearch=moderate&amp;setlang=zh-hant&amp;cc=TW&amp;fbclid=IwZXh0bgNhZW0CMTAAAR2uIGBWLGXDLZ-JD-AdeiH-tlHyixK2po8GXaB5FIzFk5OW02xANkRfCjU_aem_YNniy_4KI3aTIWlj6YsJkw" rel="noopener nofollow" class="external-link" href="https://www.bing.com/images/create?FORM=GENEXP&amp;PC=SANSAAND&amp;ssp=1&amp;safesearch=moderate&amp;setlang=zh-hant&amp;cc=TW&amp;fbclid=IwZXh0bgNhZW0CMTAAAR2uIGBWLGXDLZ-JD-AdeiH-tlHyixK2po8GXaB5FIzFk5OW02xANkRfCjU_aem_YNniy_4KI3aTIWlj6YsJkw" target="_blank">https://www.bing.com/images/create?FORM=GENEXP......</a>
+<br>2.請生成一系列與各組畢制的內容相關的VI與紀念品。(需要包含袋類、杯子、T-Shirt、卡片或海報、電子產品)<br>3.MOCKUP 請使用 Designer匯入JPG或PNG檔案 <a data-tooltip-position="top" aria-label="https://www.logoai.com/design/?fbclid=IwZXh0bgNhZW0CMTAAAR3cf1S0e8SMfKzxiSwQRd5H5GIFZpYsgmPgrI5eXM4tXht-JZLapjW38gQ_aem_wUKdzlNJZK41aslWFFJ_3g" rel="noopener nofollow" class="external-link" href="https://www.logoai.com/design/?fbclid=IwZXh0bgNhZW0CMTAAAR3cf1S0e8SMfKzxiSwQRd5H5GIFZpYsgmPgrI5eXM4tXht-JZLapjW38gQ_aem_wUKdzlNJZK41aslWFFJ_3g" target="_blank">https://www.logoai.com/design/</a><br>4.上傳FB社團，請按照每組畢製分組作為依據，一組派一位代表或組長上傳課程FB社團即可。<br>請介紹：<br>
+<br>畢製專案名稱
+<br>組員學號與姓名
+<br>作品故事及氛圍感簡單闡述(100字以內)
+<br>主要色系為哪些(3種以內)
+<br>紀念品的全部產出包含袋類、杯子、T-Shirt、卡片或海報、電子產品
+<br>AI LOGO (Bing)<br>
+<a data-tooltip-position="top" aria-label="https://www.bing.com/images/create?fbclid=IwZXh0bgNhZW0CMTAAAR1vtzZjw-6hZmkUqiSBVZnUdTM-O2dZfCNEZ_SI7Z0F-D1qHSLdsRJ8mLk_aem_Pu8dR7kpDwZBwjNI93FlxA" rel="noopener nofollow" class="external-link" href="https://www.bing.com/images/create?fbclid=IwZXh0bgNhZW0CMTAAAR1vtzZjw-6hZmkUqiSBVZnUdTM-O2dZfCNEZ_SI7Z0F-D1qHSLdsRJ8mLk_aem_Pu8dR7kpDwZBwjNI93FlxA" target="_blank">https://www.bing.com/images/create</a><br>Mockup<br>
+<a data-tooltip-position="top" aria-label="https://www.logoai.com/?fbclid=IwZXh0bgNhZW0CMTAAAR0Cu9ke98JMU2G6me6KoaOcj8vgSGWlBdE-I15X5U76dvhuQ5dt09t2cPI_aem_s79UOc-sDztEMMl0wZ_F7w" rel="noopener nofollow" class="external-link" href="https://www.logoai.com/?fbclid=IwZXh0bgNhZW0CMTAAAR0Cu9ke98JMU2G6me6KoaOcj8vgSGWlBdE-I15X5U76dvhuQ5dt09t2cPI_aem_s79UOc-sDztEMMl0wZ_F7w" target="_blank">https://www.logoai.com/</a><br>成果：<br>
+專題名稱：拾光<br>第四組<br>
+陶佑齊ASC110114<br>
+黃彩柔ADT110128<br>
+黃惠卿ADT110701<br>
+蕭燕婷ADT110131<br>作品故事及氛圍感簡單闡述：<br>
+「在破碎的回憶中摸索著，尋找生命中的燭火。」<br>
+這是一款2D冒險解謎遊戲，玩家將扮演患阿茲海默症的阿萬，回憶過去，了解他的疾病帶來的故事。傳達出「珍惜與家人相處的時光」之意涵。<br>
+跟隨主角，拾起時光的碎片，找回最珍貴的記憶。<br>主要色系包含哪些：<br>
+夕陽橘、陽光黃<br>AI生成Prompt：我需要生成一個LOGO，生成一個橘色系、菱形形狀、簡約風格、需要火焰蠟燭元素、圖片下方附「拾光」字樣，並給我一個白底<br>紀念品包含：桌曆、帆布袋、電腦、背包、手錶、徽章、海報、T恤<br><img alt="image alt" src="https://scontent.frmq2-2.fna.fbcdn.net/v/t39.30808-6/466414454_4010473149185924_8190771314366441057_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=bd9a62&amp;_nc_ohc=PBk2-hhuVuIQ7kNvgF7-efT&amp;_nc_zt=23&amp;_nc_ht=scontent.frmq2-2.fna&amp;_nc_gid=ALi8t3pUDmYf-rJLWz3j6rx&amp;oh=00_AYD5-GZqr0-Zm5bHIvRhEiBCmCgx5BYe8QTaP2zQgBBzcQ&amp;oe=676F67D6" referrerpolicy="no-referrer" style="width: 301px; max-width: 100%;"><br><img alt="image alt" src="https://scontent.frmq2-2.fna.fbcdn.net/v/t39.30808-6/465791073_4010473482519224_9064842293372098035_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=bd9a62&amp;_nc_ohc=3BEiFpdSPAwQ7kNvgHtpXwF&amp;_nc_zt=23&amp;_nc_ht=scontent.frmq2-2.fna&amp;_nc_gid=AHgZK8ugCrbrGuWCCsIXmn6&amp;oh=00_AYB2UNH5e37oI_wI9a20dBMp8aTQ8Za4Dg2mS6rX7LKNcw&amp;oe=676F4CD2" referrerpolicy="no-referrer"><br><br><br>萬和宮 360VR 導覽<br><br>廟宇虛擬導覽問券調查：<a data-tooltip-position="top" aria-label="https://docs.google.com/forms/d/e/1FAIpQLSdAXW5i2YG8-ibyqoGow5aufwPjbtNUEWlWGERzJ97by82Zsw/viewform?fbclid=IwZXh0bgNhZW0CMTAAAR3moyJyBKu-M4_VX2pd0DJT8QGa0fk2mM3_cH8F8fFoLcS-TYtbcH0Aed4_aem_VDXHo5S2vLRFyK3rlL9xlw" rel="noopener nofollow" class="external-link" href="https://docs.google.com/forms/d/e/1FAIpQLSdAXW5i2YG8-ibyqoGow5aufwPjbtNUEWlWGERzJ97by82Zsw/viewform?fbclid=IwZXh0bgNhZW0CMTAAAR3moyJyBKu-M4_VX2pd0DJT8QGa0fk2mM3_cH8F8fFoLcS-TYtbcH0Aed4_aem_VDXHo5S2vLRFyK3rlL9xlw" target="_blank">https://docs.google.com/....../1FAIpQLS....../viewform......</a><br><br><br>業界演講：狂熱視野許誌謙 網路行銷與後台分析<br><br><br>Virtual Tour虛擬實境實作<br>
+3DVista教學：<a rel="noopener nofollow" class="external-link" href="http://120.108.221.55/profchwu/EC/%E6%95%99%E6%9D%90/3DVista/3DVista.pdf" target="_blank">http://120.108.221.55/profchwu/EC/%E6%95%99%E6%9D%90/3DVista/3DVista.pdf</a><br><br><img alt="學習單05.jpg" src="20-project\22【課程】電子商務互動行銷\學習單05.jpg"><br><br>下禮拜報告 12/10 每組3分鐘<br>VR 行銷企劃 PPT:<br>
+<br>搜尋一個 3D Vista 的案例，進行探索與分析。
+<br>討論一個 VR 行銷企劃並製作 PPT
+<br>
+<br>封面 主題/組員/指導老師
+<br>解決問題&amp;目的
+<br>案例介紹
+<br>案例優點分析
+<br>Market Place 找一個推薦物件
+<br>你們的企劃
+<br>場景 (例如校外展、數位系、….)
+<br>內容 (例如畢業專題、課程成果、….)
+<br>E-learning 題目與目的
+<br>Floorplan 至少二層
+<br>至少結合一個 market place
+<br>示意圖
+<br>創意
+<br>(1)(以你們的創意，思考 VR 行銷)
+<br>(2)如何互動遊戲方式
+<br>
+<br>將 PPT 上傳到雲端空間
+<br>
+<br>第4組 主題：大自然!你我牠!<br>
+組員：陶佑齊ASC110114、黃彩柔ADT110128、黃惠卿ADT110701、蕭燕婷ADT110131<br>
+PPT連結：<a data-tooltip-position="top" aria-label="https://www.canva.com/design/DAGYM94u8LA/nekL_XdDiolU7X8OBlo7-Q/view?utm_content=DAGYM94u8LA&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=editor&amp;fbclid=IwZXh0bgNhZW0CMTAAAR1vtzZjw-6hZmkUqiSBVZnUdTM-O2dZfCNEZ_SI7Z0F-D1qHSLdsRJ8mLk_aem_Pu8dR7kpDwZBwjNI93FlxA" rel="noopener nofollow" class="external-link" href="https://www.canva.com/design/DAGYM94u8LA/nekL_XdDiolU7X8OBlo7-Q/view?utm_content=DAGYM94u8LA&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=editor&amp;fbclid=IwZXh0bgNhZW0CMTAAAR1vtzZjw-6hZmkUqiSBVZnUdTM-O2dZfCNEZ_SI7Z0F-D1qHSLdsRJ8mLk_aem_Pu8dR7kpDwZBwjNI93FlxA" target="_blank">https://www.canva.com/....../nekL....../view......</a>
+
+  
+  
+
+
+<br><br><br>
+<br>期末企劃報告
+<br>3DVista教學
+<br><br><br>AI虛擬主播 + 360VR導覽<br>
+<br>Hey Gen
+<br>D- ID
+<br>使用<a data-tooltip-position="top" aria-label="https://temp-mail.org/" rel="noopener nofollow" class="external-link" href="https://temp-mail.org/" target="_blank">Temp Mail</a>生成的信箱註冊HeyGen<br>
+<a data-tooltip-position="top" aria-label="mailto:javehi2768@rabitex.com" rel="noopener nofollow" class="external-link" href="mailto:javehi2768@rabitex.com" target="_blank">javehi2768@rabitex.com</a><br><br><br>期末報告 12/24<br>
+11301 電子商務與網路互動行銷期末報告<br>
+VR虛擬導覽+AIGC<br>主題: 需報告此兩部分。<br>
+(1) VR導覽實作，以課堂介紹的3DVista 或該組期中介紹的VR軟體，任選一個場所(例如畢業展)，實作一個VR導覽。需有開頭畫面、互動功能等。<br>
+(2) AIGC的商業產品設計製作。以課堂介紹的LOGO+Mockup實體套用，介紹成果與Prompt製作心得分享。<br>
+日期：12/24 （二） 9:30-12:00<br>
+每組針對產品進行VR虛擬導覽+AIGC簡報 (每組8分)。<br>
+每位同學均需上台報告負責部分。<br>
+<br>PPT目錄規劃
+<br>
+<br>首頁
+<br>VR展示互動效果（影片＆口頭說明）
+<br>VR軟體介紹
+<br>Loading畫面
+<br>Floorplan
+<br>E-learning
+<br>互動部份
+<br>特別製作的部分 ex. 互動功能、商店…
+<br>錄製操作影片-&gt; Youtube
+<br>如果軟體支援，需發佈成WEB，上傳至網站<br>
+AI技術協助商業產品設計行銷 (Mockup)
+<br>Prompt分享與心得<br>
+AI實作成果(截圖)分享<br>
+這學期學習心得<br>
+組員分工<br>
+其他加分項 特別製作的部分 ex. 互動功能、或AR( Makar)<br>繳交地方<br>
+<br>
+PPT需上傳雲端空間。<br>
+相關內容（PPT）與「素材」上傳雲端空間連結。每組建立一個目錄。<br>
+包含: PPT、素材、Floorplan圖片<a rel="noopener nofollow" class="external-link" href="https://drive.google.com/drive/folders/1mxqUrjWtKlzwBDt6mSisv4ulBNIjczCj?usp=drive_link" target="_blank">https://drive.google.com/drive/folders/1mxqUrjWtKlzwBDt6mSisv4ulBNIjczCj?usp=drive_link</a>
+
+<br>
+成果上傳至Notion彙總<br>
+包含: PPT連結、VR導覽截圖x4以上、Youtube影片網址<br>
+VR軟體名稱與用途、VR軟體連結、VR教學PPT、成果截圖<br>
+<a rel="noopener nofollow" class="external-link" href="https://www.notion.so/11301-VR-AIGC" target="_blank">https://www.notion.so/11301-VR-AIGC</a>......
+
+<br>
+學習e-portfolio繳交至E化平台 (12/24)前 包含: 首頁、內容、學習心得
+
+<br><br><br><br>在這堂課中，我們以電子商務為起點，逐步學習了多種技術與軟體操作。課程從電子商務的基礎知識入門，進而實作了AR互動、各類型的聊天機器人以及AI輔助創作品牌形象等應用。每一周的學習都讓我獲益良多，收穫豐富。<br>在生成式AI快速崛起的時代，我深信數位領域的人才不僅不會因此沒落，反而能藉助這波技術浪潮發揮更多創意、展現實力，並以更高效率開發行銷相關的應用，如影片生成、音樂生成、企劃輔助及圖片生成等。因此，如何選擇吸引人的題材，成為我們需要重點關注的課題。<br>期末時，我與組員們順利完成了3Dvista的專題。在明確分工的基礎上，我們的合作非常順利，也認為我們選擇的題材和目標客群相較其他作品更具特色，未來發展的可延伸性十分廣泛。若有機會，希望能將這份專題進一步擴展，實現商業化的可行方案。<br>非常感謝老師在這學期的悉心指導！]]></description><link>【課程】電子商務互動行銷.html</link><guid isPermaLink="false">【課程】電子商務互動行銷.md</guid><pubDate>Mon, 23 Dec 2024 16:44:20 GMT</pubDate><enclosure url="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/2705.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/2705.svg&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
